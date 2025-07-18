@@ -1,1 +1,38 @@
-
+{
+    "locales": {
+        "6825621830": "en",
+        "405643647": "ru"
+    },
+    "subscriptions": {
+        "6825621830": [
+            "gallery",
+            "blog"
+        ],
+        "405643647": [
+            "blog"
+        ]
+    },
+    "feed_subscribers": {
+        "blog": [
+            "6825621830",
+            "405643647"
+        ],
+        "gallery": [
+            "6825621830"
+        ]
+    },
+    "known_guids": {
+        "blog": [
+            "https://lvan.blog/blog/my-first-post"
+        ],
+        "gallery": [
+            "https://lvan.blog/gallery/park-3",
+            "https://lvan.blog/gallery/park-4",
+            "https://lvan.blog/gallery/park-1",
+            "https://lvan.blog/gallery/lake",
+            "https://lvan.blog/gallery/park-5",
+            "https://lvan.blog/gallery/park-2",
+            "https://lvan.blog/gallery/mountain"
+        ]
+    }
+}
