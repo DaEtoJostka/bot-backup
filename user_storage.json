@@ -9,6 +9,7 @@
             "blog"
         ],
         "6825621830": [
+            "gallery",
             "blog"
         ]
     },
@@ -18,11 +19,13 @@
             "blog": []
         },
         "6825621830": {
-            "blog": []
+            "blog": [],
+            "gallery": []
         }
     },
     "feed_subscribers": {
         "gallery": [
+            "6825621830",
             "405643647"
         ],
         "blog": [
