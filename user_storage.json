@@ -38,7 +38,8 @@
     },
     "known_guids": {
         "blog": [
-            "https://lvan.blog/blog/my-first-post"
+            "https://lvan.blog/blog/my-first-post",
+            "https://lvan.blog/blog/how-to-web_p1"
         ],
         "gallery": [
             "https://lvan.blog/gallery/lake",
